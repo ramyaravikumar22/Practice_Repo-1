@@ -1,0 +1,19 @@
+* shop-styles.css */
+  .item-banner {
+    display: flex;
+    background: transparent;
+    margin-bottom: -5%; /*approximate*/
+  }
+
+  /* more CSS Code here */
+
+  .sale-price {
+    text-decoration: line-through;
+  }
+
+    /* shop-style.css */
+ /*   section {
+        display: flex;
+        justify-content: space-evenly;
+      } 
+      */
