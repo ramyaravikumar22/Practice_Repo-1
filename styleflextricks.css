@@ -1,0 +1,17 @@
+.my-flex-container {
+    border: 5pt solid EE621F;
+    display: flex;
+    justify-content: center;
+  }
+
+  article {
+    border: 5pt solid #FDEFE1;
+    height: 144pt;
+    width: 144pt;
+  }
+
+/* Just for fun ;) */
+  article:hover {
+    border-color: #EE2D7A;
+    border-style: dotted;
+  }
