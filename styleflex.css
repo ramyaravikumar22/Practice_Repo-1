@@ -1,0 +1,12 @@
+/* the CSS to make it happen */
+.truthful-statements {
+    display: flex;
+  }
+  
+  article {
+    border-color: blue;
+    border-style: solid;
+    border-width: 1pt;
+    margin: 20pt 5pt;
+    padding: 2pt 5pt;
+  }
